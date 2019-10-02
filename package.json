@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/MayurJ1609/git-test/issues"
   },
-  "homepage": "https://github.com/MayurJ1609/git-test#readme"
+  "homepage": "https://github.com/MayurJ1609/git-test#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
 }
